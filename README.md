@@ -5,6 +5,8 @@
 
 [Experiencia en bibliotecas gallegas](http://www.edu.xunta.es/biblioteca/blog/?q=category/19/87)
 
+## [Wifi](http://mgesteiro.com/cousas/escornabot-wifi/)
+
 ## Botoneras
 
 [Botonera elecfreaks [4.5$]](http://www.elecfreaks.com/estore/octopus-adkeypad.html)
