@@ -87,7 +87,9 @@
 
 ![Complemento sensores de distancia](./images/ComplementoSensoresDistancia.png)
 
-(Adaptado para sensores de TCRT5000 con salida analógica)
+(Adaptado del diseño de [jbabio](https://github.com/jbabio) para sensores de TCRT5000 con salida analógica)
 ![TCRT5000](http://s9.postimg.org/3w4v9g267/SKU123227_2.jpg)
+
+([original](https://github.com/jbabio/3dmodel/blob/a0ec6821d4692566b827412c64e4bbaa006a8dee/Brivoi/STL/Addon-BallCasterWithMazeSensors.stl))
 
 [Modelos](./modelos)
