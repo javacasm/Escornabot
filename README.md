@@ -83,3 +83,11 @@
              if (k >= NUM_KEYS)k = -1;  // No valid key pressed
              return k;
       }
+## Complemento para sensores de distancia
+
+![Complemento sensores de distancia](./images/ComplementoSensoresDistancia.png)
+
+(Adaptado para sensores de TCRT5000 con salida analógica)
+![TCRT5000](http://s9.postimg.org/3w4v9g267/SKU123227_2.jpg)
+
+[Modelos](./modelos)
