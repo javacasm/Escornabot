@@ -1,5 +1,15 @@
 # Escornabot
 
+[Escornabot dibujando circulos](https://twitter.com/CEIP_de_CERVO/status/1051765440161226752)
+[Escornabot dibujando espirales de fibonacci](https://twitter.com/xoan/status/1059044338594996224)
+
+
+## Version Kanoi 
+
+[Placa de control](https://gitlab.com/xoan/escornabot-extboard)
+[Diseño 3D](https://gitlab.com/xoan/escornabot-ext3d)
+[Libreria](https://gitlab.com/xoan/escornabot-extlib)
+[Botonera](https://gitlab.com/xoan/escornabot-extpad) 
 
 ## Experiencias
 
