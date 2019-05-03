@@ -105,3 +105,7 @@
 ## Recursos
 
 [Guia de PRuma](https://catedu.gitbooks.io/escornabots/content/)
+
+[Escornabot corte láser](http://tecnoursus.blogspot.com/2019/01/chasis-escornabot-en-corte-laser-v30.html)
+
+[Escornabot y RFid](https://create.arduino.cc/projecthub/Avilmaru/escornabot-4bf58b)
